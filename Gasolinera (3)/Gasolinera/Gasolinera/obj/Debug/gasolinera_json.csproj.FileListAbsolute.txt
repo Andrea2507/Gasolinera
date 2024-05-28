@@ -1,0 +1,26 @@
+C:\Users\mc485\source\repos\gasolinera_json\bin\Debug\gasolinera_json.exe.config
+C:\Users\mc485\source\repos\gasolinera_json\bin\Debug\gasolinera_json.exe
+C:\Users\mc485\source\repos\gasolinera_json\bin\Debug\gasolinera_json.pdb
+C:\Users\mc485\source\repos\gasolinera_json\obj\Debug\gasolinera_json.csproj.AssemblyReference.cache
+C:\Users\mc485\source\repos\gasolinera_json\obj\Debug\gasolinera_json.Form1.resources
+C:\Users\mc485\source\repos\gasolinera_json\obj\Debug\gasolinera_json.Properties.Resources.resources
+C:\Users\mc485\source\repos\gasolinera_json\obj\Debug\gasolinera_json.csproj.GenerateResource.cache
+C:\Users\mc485\source\repos\gasolinera_json\obj\Debug\gasolinera_json.csproj.CoreCompileInputs.cache
+C:\Users\mc485\source\repos\gasolinera_json\obj\Debug\gasolinera_json.exe
+C:\Users\mc485\source\repos\gasolinera_json\obj\Debug\gasolinera_json.pdb
+C:\Users\mc485\source\repos\gasolinera_json\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mc485\source\repos\gasolinera_json\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mc485\source\repos\gasolinera_json\obj\Debug\gasolinera_json.csproj.CopyComplete
+C:\Users\andre\Downloads\gasolinera_json (3)\gasolinera_json\bin\Debug\gasolinera_json.exe.config
+C:\Users\andre\Downloads\gasolinera_json (3)\gasolinera_json\bin\Debug\gasolinera_json.exe
+C:\Users\andre\Downloads\gasolinera_json (3)\gasolinera_json\bin\Debug\gasolinera_json.pdb
+C:\Users\andre\Downloads\gasolinera_json (3)\gasolinera_json\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andre\Downloads\gasolinera_json (3)\gasolinera_json\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andre\Downloads\gasolinera_json (3)\gasolinera_json\obj\Debug\gasolinera_json.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\gasolinera_json (3)\gasolinera_json\obj\Debug\gasolinera_json.Form1.resources
+C:\Users\andre\Downloads\gasolinera_json (3)\gasolinera_json\obj\Debug\gasolinera_json.Properties.Resources.resources
+C:\Users\andre\Downloads\gasolinera_json (3)\gasolinera_json\obj\Debug\gasolinera_json.csproj.GenerateResource.cache
+C:\Users\andre\Downloads\gasolinera_json (3)\gasolinera_json\obj\Debug\gasolinera_json.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\gasolinera_json (3)\gasolinera_json\obj\Debug\gasolinera_json.csproj.CopyComplete
+C:\Users\andre\Downloads\gasolinera_json (3)\gasolinera_json\obj\Debug\gasolinera_json.exe
+C:\Users\andre\Downloads\gasolinera_json (3)\gasolinera_json\obj\Debug\gasolinera_json.pdb
