@@ -1,0 +1,54 @@
+C:\Users\andre\Downloads\Gasolinera\Gasolinera\bin\Debug\gasolinera_json.exe.config
+C:\Users\andre\Downloads\Gasolinera\Gasolinera\bin\Debug\gasolinera_json.exe
+C:\Users\andre\Downloads\Gasolinera\Gasolinera\bin\Debug\gasolinera_json.pdb
+C:\Users\andre\Downloads\Gasolinera\Gasolinera\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andre\Downloads\Gasolinera\Gasolinera\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andre\Downloads\Gasolinera\Gasolinera\obj\Debug\Gasolinera.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.Properties.Resources.resources
+C:\Users\andre\Downloads\Gasolinera\Gasolinera\obj\Debug\Gasolinera.csproj.GenerateResource.cache
+C:\Users\andre\Downloads\Gasolinera\Gasolinera\obj\Debug\Gasolinera.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\Gasolinera\Gasolinera\obj\Debug\Gasolinera.csproj.CopyComplete
+C:\Users\andre\Downloads\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.exe
+C:\Users\andre\Downloads\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.pdb
+C:\Users\andre\Downloads\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.Form2.resources
+C:\Users\andre\Downloads\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.Registro.resources
+C:\Users\andre\Downloads\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.Diesel.resources
+C:\Users\andre\Downloads\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.ION_Diesel.resources
+C:\Users\andre\Downloads\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.Regular.resources
+C:\Users\andre\Downloads\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.Super.resources
+C:\Users\andre\Downloads\Gasolinera (2)\Gasolinera\Gasolinera\bin\Debug\gasolinera_json.exe.config
+C:\Users\andre\Downloads\Gasolinera (2)\Gasolinera\Gasolinera\bin\Debug\gasolinera_json.exe
+C:\Users\andre\Downloads\Gasolinera (2)\Gasolinera\Gasolinera\bin\Debug\gasolinera_json.pdb
+C:\Users\andre\Downloads\Gasolinera (2)\Gasolinera\Gasolinera\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andre\Downloads\Gasolinera (2)\Gasolinera\Gasolinera\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andre\Downloads\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\Gasolinera.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.Diesel.resources
+C:\Users\andre\Downloads\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.Super.resources
+C:\Users\andre\Downloads\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.Form2.resources
+C:\Users\andre\Downloads\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.ION_Diesel.resources
+C:\Users\andre\Downloads\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.Properties.Resources.resources
+C:\Users\andre\Downloads\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.Registro.resources
+C:\Users\andre\Downloads\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.Regular.resources
+C:\Users\andre\Downloads\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\Gasolinera.csproj.GenerateResource.cache
+C:\Users\andre\Downloads\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\Gasolinera.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\Gasolinera.csproj.CopyComplete
+C:\Users\andre\Downloads\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.exe
+C:\Users\andre\Downloads\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.pdb
+C:\Users\andre\Downloads\TRABAJAR GASOLINERA EN ESTE\Gasolinera (2)\Gasolinera\Gasolinera\bin\Debug\gasolinera_json.exe.config
+C:\Users\andre\Downloads\TRABAJAR GASOLINERA EN ESTE\Gasolinera (2)\Gasolinera\Gasolinera\bin\Debug\gasolinera_json.exe
+C:\Users\andre\Downloads\TRABAJAR GASOLINERA EN ESTE\Gasolinera (2)\Gasolinera\Gasolinera\bin\Debug\gasolinera_json.pdb
+C:\Users\andre\Downloads\TRABAJAR GASOLINERA EN ESTE\Gasolinera (2)\Gasolinera\Gasolinera\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andre\Downloads\TRABAJAR GASOLINERA EN ESTE\Gasolinera (2)\Gasolinera\Gasolinera\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andre\Downloads\TRABAJAR GASOLINERA EN ESTE\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\Gasolinera.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\TRABAJAR GASOLINERA EN ESTE\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.Diesel.resources
+C:\Users\andre\Downloads\TRABAJAR GASOLINERA EN ESTE\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.Super.resources
+C:\Users\andre\Downloads\TRABAJAR GASOLINERA EN ESTE\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.Form2.resources
+C:\Users\andre\Downloads\TRABAJAR GASOLINERA EN ESTE\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.ION_Diesel.resources
+C:\Users\andre\Downloads\TRABAJAR GASOLINERA EN ESTE\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.Properties.Resources.resources
+C:\Users\andre\Downloads\TRABAJAR GASOLINERA EN ESTE\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.Registro.resources
+C:\Users\andre\Downloads\TRABAJAR GASOLINERA EN ESTE\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.Regular.resources
+C:\Users\andre\Downloads\TRABAJAR GASOLINERA EN ESTE\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\Gasolinera.csproj.GenerateResource.cache
+C:\Users\andre\Downloads\TRABAJAR GASOLINERA EN ESTE\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\Gasolinera.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\TRABAJAR GASOLINERA EN ESTE\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\Gasolinera.csproj.CopyComplete
+C:\Users\andre\Downloads\TRABAJAR GASOLINERA EN ESTE\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.exe
+C:\Users\andre\Downloads\TRABAJAR GASOLINERA EN ESTE\Gasolinera (2)\Gasolinera\Gasolinera\obj\Debug\gasolinera_json.pdb
